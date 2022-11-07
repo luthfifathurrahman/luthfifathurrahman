@@ -1,7 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)](https://github.com/luthfifathurrahman)
 <h1 align="center">Hi 👋, I'm Luthfi Fathurrahman</h1>
 <h3 align="center">A Rookie Data Analyst From Indonesia</h3>
-<img align="right" alt="Coding" width"100" src="https://miro.medium.com/max/880/1*lGuOoHqUt4KyFjHxH07k4w.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luthfifathurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="luthfifathurrahman" /> </p>
 
